@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-As the sole architect and developer of this project, I have designed and implemented a comprehensive solution to address the challenges of fraud detection and customer information management.
+As developer of this project, I have designed and implemented a comprehensive solution to address the challenges of fraud detection and customer information management.
 
 Fraud Detection Solution:
 Central to my project is a sophisticated fraud detection system built using advanced big data technologies. By analyzing transactional data in real time and applying a set of predefined rules, the system can efficiently identify potentially fraudulent activities. I have meticulously fine-tuned the rules to strike a balance between accurately detecting fraud and minimizing false positives. This approach ensures that genuine transactions are not wrongly flagged, thus preventing unnecessary inconvenience to users. Additionally, the system's proactive nature helps mitigate potential financial losses and maintains trust among users.
